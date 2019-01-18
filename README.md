@@ -1,4 +1,4 @@
-# employeemanager
+# Employee Portal
 
 > simple employee manager
 
